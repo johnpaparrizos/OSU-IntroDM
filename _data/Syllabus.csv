@@ -1,0 +1,36 @@
+﻿Class,Wk,Date,Day,Topic,Assign Out,Assign Due,Notes,Video,Related Files
+1,1,24-Aug,Wed,Introduction to Data Mining,,,,,"1.Chapter 1 Intro"
+2,1,26-Aug,Fri,Python & Tools Review,,,,,"1.Python Overview Notebook <br>
+2.Python Overview  html <br>
+3.Exploratory Data Analysis Overview Notebook <br>
+4.Exploratory Data Analysis Overview html <br>
+5.Lin Alg/Stats Reference"
+3,2,31-Aug,Wed,Review of Basic Probability and Statistical Concepts,,,
+4,2,2-Sep,Fri,Review of Basic Probability and Statistical Concepts,,,,,
+5,3,7-Sep,Wed,Data & Data Preprocessing,
+6,3,9-Sep,Fri,Data & Data Preprocessing,,,,,
+7,4,14-Sep,Wed,Data & Data Preprocessing,,,
+8,4,16-Sep,Fri,"Classification - Basic Classification, Decision Trees",,A1,,,
+9,5,21-Sep,Wed,Classification - Overfitting,,,
+10,5,23-Sep,Fri,Classification - Imbalanced Classes,,,,,
+11,6,28-Sep,Wed,"Classification - KNN, Rules",
+12,6,30-Sep,Fri,Classification - Bayes,,,,,
+13,7,5-Oct,Wed,"Classification - Log Reg, SVM",,,,,
+14,7,7-Oct,Fri,"Classification - ANN, Ensemble",,,
+15,8,12-Oct,Wed,Midterm Review,,A2,,,
+-,8,14-Oct,Fri,NO CLASS,,,,,
+16,9,19-Oct,Wed,Midterm Exam,,,,,
+17,9,21-Oct,Fri,Clustering,,A3,
+18,10,26-Oct,Wed,Clustering,,,,,
+19,10,28-Oct,Fri,Clustering,,,,,
+20,11,2-Nov,Wed,Clustering,,,,,
+21,11,4-Nov,Fri,Frequent Patterns and Associations,
+22,12,9-Nov,Wed,Frequent Patterns and Associations,,,,,
+23,12,11-Nov,Fri,NO CLASS,,,,,
+24,13,16-Nov,Wed,Anomaly Detection & Frequent Associations,,A4,,,
+25,14,23-Nov,Wed,NO CLASS,,,,,
+-,14,25-Nov,Fri,NO CLASS,,,,,
+26,15,30-Nov,Wed,Misc Topics (reinforcement learning)?,,A5,,,
+27,15,2-Nov,Fri,Misc Topics,,,,,
+28,16,7-Dec,Wed,Final Review (Roughly around this date),,,,,
+29,17,9-Dec,Fri,Final Exam (Roughly around this date),,,,,
